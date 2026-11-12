@@ -1,0 +1,31 @@
+WGS Variant Calling - Quality Control Summary
+
+Sample: SRR062634
+Organism: Homo sapiens
+Reference Genome: GRCh38
+Sequencing Type: Paired-end
+
+Read Processing:
+Paired reads after trimming: 56,619 pairs
+Average read length: 95 bp
+
+Alignment Statistics:
+Total reads: 113,238
+Mapped reads: 112,746
+Mapping rate: 99.57%
+Properly paired reads: 110,284
+Properly paired percentage: 97.4%
+
+Duplicate Marking:
+Duplicate reads: 324
+
+Variant Calling:
+GVCF generated successfully
+VCF generated successfully
+Variant records: 1,019
+
+Important Note:
+The processed dataset represents a small subset
+of the original SRA run. The resulting variant
+calls are preliminary and should not be used
+for reliable biological interpretation.

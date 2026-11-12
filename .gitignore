@@ -1,0 +1,22 @@
+# Large sequencing data
+*.fastq
+*.fastq.gz
+*.sam
+*.bam
+*.bai
+
+# Reference genome and indexes
+*.fa
+*.fasta
+*.fai
+*.dict
+*.amb
+*.ann
+*.bwt
+*.pac
+*.sa
+
+# Temporary files
+*.tmp
+*.log.tmp
+
